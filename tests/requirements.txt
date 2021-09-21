@@ -1,0 +1,8 @@
+# Packages needed to run the tests.
+# Switch into a virtual environment
+# pip install -r requirements.txt
+
+dash[dev,testing]
+flake8
+pylint
+astroid<=2.5,>=2.4.0
